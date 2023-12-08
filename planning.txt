@@ -5,8 +5,16 @@ functionality :
 record income and expenses 
 different categories for expenses
 options to split paycheck for budgeting
+implement autorization
 
 maybe:
 
 have graphs, charts that portray cash flow 
 tracking investments
+
+
+plan:
+
+first thing people will see is the login/signup page (todoist inspo)
+after loginging have the person's dedicated page that (need to plan the layout)
+sections that have different categories (paycheck spliter, monthly spending )
